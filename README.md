@@ -5,7 +5,7 @@
 # Available on telegram as @DaisyXbot
 
 <p align="center">
-  <img src="https://telegra.ph/file/dd04b1968f1bc1169d162.jpg">
+  <img src="https://telegra.ph/file/d3c9465a4bf8f9a709e4b.png">
 </p>
 
 <h2> Whats new 🔥 </h2>
@@ -58,7 +58,7 @@ You can set Channel Music Play like this:
 
 ### Deploy To Heroku</h4>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/teamdaisyx/DaisyXMusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/missmusic/DaisyXMusic)
 
 Use [@DaisyXStringGeneratorBot](https://t.me/DaisyXStringGeneratorBot) to get pyrogram string session or [repl](https://repl.it/@SpEcHiDe/GenerateStringSession)
 
